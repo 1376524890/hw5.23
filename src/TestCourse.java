@@ -30,3 +30,4 @@ public class TestCourse {
         System.out.println("Number of students: " + course.getNumberOfStudents());
     }
 }
+
