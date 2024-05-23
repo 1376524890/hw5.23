@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d5cb5eb-8f1f-4b66-afce-d7092dba776f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw5.23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+    <list default="true" id="3d5cb5eb-8f1f-4b66-afce-d7092dba776f" name="更改" comment="11.2的有MyDate,Person,Student,Employee,Faculty,Staff,TestClasses，其他为11.1">
+      <change afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +40,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Java_learn/hw5.23/src/Main.java",
+    "应用程序.TestClasses.executor": "Run",
     "应用程序.TestTriangle.executor": "Run"
   }
 }]]></component>
@@ -62,7 +53,31 @@
       <option name="presentableId" value="Default" />
       <updated>1716440426028</updated>
     </task>
+    <task id="LOCAL-00001" summary="11.2的有MyDate,Person,Student,Employee,Faculty,Staff,TestClasses，其他为11.1">
+      <option name="closed" value="true" />
+      <created>1716441514269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716441514269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11.2的有MyDate,Person,Student,Employee,Faculty,Staff,TestClasses，其他为11.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.2的有MyDate,Person,Student,Employee,Faculty,Staff,TestClasses，其他为11.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
